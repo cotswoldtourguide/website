@@ -1,0 +1,1 @@
+function toggleMenu(){if(document.getElementById("mobilemenu").className==='showmenu'){document.getElementById("mobilemenu").className='hidemenu';}else{document.getElementById("mobilemenu").className='showmenu';}}

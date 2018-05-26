@@ -1,0 +1,94 @@
+@media all and (min-width:451px){body{background:url(img/body_background.jpg?) repeat-x center top;background-color:#c2c2c2;font-family:Helvetica;margin:0px;}
+h1{font-size:40px;font-weight:normal;margin:7px 0px 17px 7px}
+h2{margin:0;font-size:20px;}
+h3{margin:0;font-size:16px;}
+.stdcenterwrap{width:960px;margin:0 auto;font-size:0;}
+.top_image{display:block;width:100%;height:350px;background:transparent url("img/cotswold-tour-guide-top-image.jpg") no-repeat 0 center;}
+#mobilemenu{display:none;}
+.navcenterwrap{width:960px;margin:0 auto;}
+div{margin:0;padding:0;}
+.page_title_link{text-decoration:none;color:white;}
+.mobilemenuimg{display:none;}
+.navcenterwrap nav{background-color:#44503A;display:inline-block;width:100%;}
+.navcenterwrap nav ul{list-style-type:none;padding-left:0px;margin-bottom:13px;margin-top:13px}
+.navcenterwrap nav li{display:inline;}
+.navcenterwrap nav li a{display:inline;background-color:#44503A;text-decoration:none;color:#F8F8FF;text-align:center;font-size:14px;font-weight:normal;padding:14px 16px;}
+.navcenterwrap nav li a:hover{color:white;background-color:#323A2B;}
+hr.style-top {
+    border: 0;
+    height: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+	margin-top:0px;
+}
+.main{background-color:white;font-size:medium;padding:25px;display:inline-block;font-size:16px;line-height:1.6;}
+.aside{float:right;}
+.kfowlerimage{display:block;width:148px;padding-top:15px;height:430px;background:transparent url("img/kenfowler.jpg") no-repeat 0 center;margin:auto;}
+.carimage{float:right;}
+.tourimage{display:block;margin-left:auto;margin-right:auto}
+.calltoaction hr{border:0;height:0;border-top:1px solid rgba(0, 0, 0, 0.1);border-bottom:1px solid rgba(255, 255, 255, 0.3);}
+.calltoaction p{font-style:italic;}
+.sectionfour{display:table;margin:0 auto;}
+.imageone{display:inline-block;padding-right:25px;}
+.imagetwo{display:inline-block;}
+.imagethree{display:inline-block;padding-left:25px;}
+.testimonialblock{overflow:auto;}
+.testimonialimage{width:300px;float:left;padding-right:12px;}
+hr{clear:left;}
+.brtestimonial{clear:left;}
+.contactblock{display:inline-block;width:49%;vertical-align:top;}
+.inputclass{width:95%;padding:12px;margin:8px 0;display:inline-block;border:1px solid #ccc;border-radius:4px;box-sizing:border-box;}
+.textareaclass{width:95%;padding:12px;margin:8px 0;display:inline-block;border:1px solid #ccc;border-radius:4px;box-sizing:border-box;}
+.submitclass{width:95%;background-color:#53585C;color:white;padding:14px 20px;margin:8px 0;border:none;border-radius:4px;cursor:pointer;}
+.submitclass:hover{background-color:#44503A;}
+.ourfounder{float:right;}
+footer{padding:7px 25px 7px 25px;background-color:#747572;color:white;font-size:small;}
+}
+@media only screen and (min-width:0px) and (max-width:450px){body{background:none;background-color:#FFF;margin:0;font-family:Helvetica}
+h1{font-size:20px;font-weight:normal;}
+@media only screen and (min-width:0px) and (max-width:370px){h1{font-size:16px;font-weight:normal;}
+}
+h2{margin:0;font-size:18px;}
+h3{margin:0;font-size:16px;}
+.stdcenterwrap{width:100%;margin:0 auto;font-size:0;}
+div{margin:0;padding:0;}
+.page_title{background-color:#44503A;padding:5px;margin:0;}
+.page_title_link{text-decoration:none;color:white;}
+.mobilemenuimg_container{display:inline-block;width:20%;height:100%;vertical-align:middle;}
+.mobilemenuimg{width:30px; margin-left:9px;height:auto;}
+.page_title_div{display:inline-block;width:80%;height:100%;vertical-align:middle;}
+.hidemenu{display:none;}
+.showmenu{display:block;}
+#mobilemenu ul{list-style-type:none;margin:0;padding:0;width:100%;background-color:#44503A;}
+#mobilemenu a{font-size:14px;text-align:center;display:block;color:#FFF;padding:8px 16px;text-decoration:none;border-top:1px solid white;border-bottom:1px solid white;}
+.firstelt{border-top:2px solid white !important;}
+nav{display:none;}
+.main{background-color:white;font-size:medium;display:inline-block;font-size:16px;line-height:1.6;}
+.mobileimg{display:block;width:137px;padding-top:15px;height:143px;background:transparent url("img/mobilekenfowler.jpg") no-repeat 0 center;margin:auto;}
+.carimage{width:100%;float:none;display:block;}
+.tourimage{width:100%;}
+.aside{display:block;}
+.tripadvisor{display:table;margin:10px auto 0;}
+.calltoaction{padding:0 15px 0;}
+.calltoaction hr{border:0;height:0;border-top:1px solid rgba(0, 0, 0, 0.1);border-bottom:1px solid rgba(255, 255, 255, 0.3);}
+.calltoaction p{font-style:italic;}
+.sectionone{padding:15px 15px 0px;}
+.sectiontwo{padding:15px 15px 0px;}
+.sectionthree{padding:0px 15px 0px;}
+.sectionfour{display:table;margin:0 auto;padding:15px;padding-top:0px;}
+.imageone{display:inline-block;display:table;margin:0 auto;}
+.imagetwo{display:inline-block;display:table;margin:0 auto;}
+.imagetwo img{height:139.79px;}
+.imagethree{display:inline-block;display:table;margin:0 auto;}
+.imagethree img{width:248px;}
+.testimonialblock{overflow:auto;}
+.testimonialimage{width:100%;float:left;padding-bottom:12px;}
+hr{clear:left;}
+.brtestimonial{clear:left;}
+.inputclass{width:100%;padding:12px;margin:8px 0;display:inline-block;border:1px solid #ccc;border-radius:4px;box-sizing:border-box;}
+.textareaclass{width:100%;padding:12px;margin:8px 0;display:inline-block;border:1px solid #ccc;border-radius:4px;box-sizing:border-box;}
+.submitclass{width:100%;background-color:#53585C;color:white;padding:14px 20px;margin:8px 0;border:none;border-radius:4px;cursor:pointer;}
+.submitclass:hover{background-color:#44503A;}
+.ourfounder{width:200px;float:none;display:block;padding-bottom:12px;}
+footer{padding:7px 25px 7px 25px;background-color:#53585C;color:white;font-size:small;}
+}
