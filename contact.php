@@ -1,0 +1,226 @@
+<!doctype html>
+
+<html>
+
+    <head>
+        <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+        <title>Contact | Book Personal Cotswold Tours | Cotswold Tours UK</title>
+		<meta name="description" content="Get in contact with Ken to book your personal Cotswolds Tour, for more details visit this page.">
+        <link rel="stylesheet" href="style.css">
+
+        <script src="javascript.js"></script>
+
+        <meta name="viewport" content="width=device-width" />
+        <link rel="icon" href="favicon.ico" type="image/x-icon"/>
+        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
+		<link rel="canonical" href="https://www.fowler-tours.co.uk/contact.html" />
+
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-27624651-1"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+
+		  gtag('config', 'UA-27624651-1');
+		</script>
+
+    </head>
+
+    <body>
+
+        <div class="stdcenterwrap">
+
+            <div class="page_title">
+
+                    <div class="mobilemenuimg_container" onclick="toggleMenu()" alt="menu">
+
+                        <img class="mobilemenuimg" src="img/menuimgwhite.png">
+
+                    </div><div class="page_title_div">
+
+                        <h1><a class="page_title_link" href="index.html">Cotswold Tours by Fowler Tours</a></h1>
+
+                    </div>
+
+            </div>
+
+            <div class="top_image">&NBSP;</div>
+
+        </div>
+
+        <nav itemscope itemtype="https://schema.org/SiteNavigationElement" id="mobilemenu" class="hidemenu">
+            <ul>
+                <a itemprop="url" class="firstelt" href="/"><li itemprop="name">Home</li></a>
+                <a itemprop="url" href="full_day_tour.html"><li itemprop="name">Full Day Tour</li></a>
+                <a itemprop="url" href="short_day_tour.html"><li itemprop="name">Short Day Tour</li></a>
+                <a itemprop="url" href="faq.html"><li itemprop="name">FAQs</li></a>
+                <a itemprop="url" href="getting_here.html"><li itemprop="name">Getting Here</li></a>
+                <a itemprop="url" href="contact.html"><li itemprop="name">Contact</li></a>
+                <a itemprop="url" href="prices.html"><li itemprop="name">Prices</li></a>
+                <a itemprop="url" href="booking.html"><li itemprop="name">Booking</li></a>
+                <a itemprop="url" href="testimonials.html"><li itemprop="name">Testimonials</li></a>
+                <a itemprop="url" href="family_history.html"><li itemprop="name">Family History</li></a>
+                <a itemprop="url" href="articles.html"><li itemprop="name">Articles</li></a>
+            </ul>
+        </nav>
+
+        <div class="navcenterwrap">
+            <nav itemscope itemtype="https://schema.org/SiteNavigationElement">
+                <ul>
+                    <li itemprop="name" class="active firstelt"><a itemprop="url" href="/">Home</a></li>
+                    <li itemprop="name"><a itemprop="url" href="full_day_tour.html">Full Day Tour</a></li>
+                    <li itemprop="name"><a itemprop="url" href="short_day_tour.html">Short Day Tour</a></li>
+                    <li itemprop="name"><a itemprop="url" href="faq.html">FAQs</a></li>
+                    <li itemprop="name"><a itemprop="url" href="getting_here.html">Getting Here</a></li>
+                    <li itemprop="name"><a itemprop="url" href="contact.html">Contact</a></li>
+                    <li itemprop="name"><a itemprop="url" href="prices.html">Prices</a></li>
+                    <li itemprop="name"><a itemprop="url" href="booking.html">Booking</a></li>
+                    <li itemprop="name"><a itemprop="url" href="testimonials.html">Testimonials</a></li>
+                    <li itemprop="name"><a itemprop="url" href="family_history.html">Family History</a></li>
+                    <li itemprop="name"><a itemprop="url" href="articles.html">Articles</a></li>
+                </ul>
+            </nav>
+        </div>
+
+
+
+        <div class="stdcenterwrap">
+
+            <div class="main">
+
+                <div class="sectionone">
+
+                    <h2>Contact me</h2>
+
+                    <br>
+
+                    <div class="contactblock">
+
+
+                            <form  action="" method="POST" enctype="multipart/form-data" data-netlify="true">
+
+                            <input type="hidden" name="action" value="submit">
+
+                            Name*:<br>
+
+                            <input name="name" type="text" value="" size="30" class="inputclass"/><br>
+
+                            Email*:<br>
+
+                            <input name="email" type="text" value="" size="30" class="inputclass"/><br>
+
+                            Your preferred date of tour, if known:<br>
+
+                            <input name="date" type="text" value="" size="30" class="inputclass"/><br>
+
+                            Number in party*:<br>
+
+                            <input name="partynumber" type="text" value="" size="30" class="inputclass"/><br>
+
+                            Your message*:<br>
+
+                            <textarea name="message" rows="7" cols="30" class="textareaclass"></textarea><br>
+
+                            <input type="submit" value="Send" class="submitclass"/>
+
+                            </form>
+
+
+                    </div>
+
+                    <div class="contactblock">
+
+                        <p>Alternatively, you can contact me via email or over the phone.</p>
+
+                        <p><b>Email</b>: <a href="mailto:kenfowler@fowler-tours.co.uk?subject=Fowler Tours Enquiry">kenfowler@fowler-tours.co.uk</a></p>
+
+                        <p><b>Phone details</b><br>
+
+                            + 44 (0)1327 263764     (Landline) <br>
+
+                            + 44 (0)7969 665983     (Mobile)  
+
+                        </p>
+
+                        <p>Sometimes I may not be able to answer my mobile as I may be with touring guests. However, I can usually find a moment to respond briefly via email to, perhaps, confirm my availability for a short notice tour enquiry. Therefore, if I am unable to answer your call to my mobile, would you kindly send your enquiry to me via email and I will respond as quickly as I possibly can. Thank you. </p>
+
+                        <p>Please be aware of our local time when you ring. Thank you.</p>
+
+                        <span><strong>
+
+                            <p>
+
+                            <font size = 4 face = �arial�
+
+                            title="analog clock London">Actual local time in the Cotswolds</a> - <span id="tzTimeSpan_ee4de541fa79044">
+
+                            </font>
+
+                            </p>
+
+                            </span>
+
+                                <script type="text/javascript" src="https://24timezones.com/js/en/time_24_0_1.js"></script>
+
+                                <script src="https://24timezones.com/timescript/gettime.js.php?city=136&hourtype=24&showdate=0&showseconds=1&id=341442&elem=ee4de541fa79044" language="javascript"></script>
+
+                        </strong></span>
+
+                    </div>
+
+                    <hr>
+
+                    <h3>Suggested hotels and pubs in the Cotswolds</h3>
+
+                    <p>I hope you find these links helpful:</p>
+
+                    <p><b>Hotels in Burford</b>:<br>
+
+                        <a href="https://www.cotswold-inns-hotels.co.uk/property/the_lamb_inn">Lamb Inn Hotel, Burford</a> <br>
+
+                        <a href="https://www.cotswold-inns-hotels.co.uk/property/the_bay_tree_hotel/">Bay Tree Hotel, Burford</a><br>
+
+                        <a href="http://www.bullatburford.co.uk/">Bull Hotel, Burford</a><br>
+
+                        <a href="http://www.cotswold-gateway.co.uk/">Cotswolds Gateway Hotel, Burford</a><br>
+
+                        <a href="http://www.goldenpheasantburford.com/">Golden Pheasant Hotel, Burford</a><br>
+
+                    </p>
+
+                    <p><b>Best pub with food and accommodation near Burford</b><br>
+
+                        <a href="https://www.theswanswinbrook.co.uk/">Swan Inn at Swinbrook</a><br>
+
+                    </p>
+
+                </div>
+
+                
+
+
+
+            </div>
+
+        </div>
+
+
+
+        <div class="stdcenterwrap">
+
+            <footer>
+
+                <p>Copyright &copy; Fowler Tours</p>
+
+            </footer>
+
+        </div>
+
+
+
+
+
+    </body>
+
+</html>
